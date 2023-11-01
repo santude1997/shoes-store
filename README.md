@@ -1,3 +1,4 @@
+![Screenshot 2023-11-01 145552](https://github.com/santude1997/shoes-store/assets/62021656/7e387b32-af2f-4349-8f30-d32fc7b434fc)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
